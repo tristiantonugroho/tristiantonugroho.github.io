@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2019-04-heterosis-boer-goat
 excerpt: 'This article was to compare heterosis estimated with conventional and mixed model approaches on Boer goat crossbred.'
-date: 2019-04
+date: 2019-04-01
 venue: 'Caraka Tani: Journal of Sustainable Agriculture'
 slidesurl: 
 paperurl: 'https://jurnal.uns.ac.id/carakatani/article/view/27620'

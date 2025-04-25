@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-crossbreeding-strategy-boer-goat
 excerpt: 'This study is evaluated the crossbreeding strategy between Boer goat and Jawarandu goats by observing the pre-weaning traits hehritability and genetic correlation.'
-date: 2021-11
+date: 2021-11-01
 venue: 'International Journal of Agricultural Technology'
 slidesurl: 
 paperurl: 'https://www.thaiscience.info/Journals/Article/IJAT/10994761.pdf'

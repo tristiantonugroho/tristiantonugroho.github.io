@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2022-12-protein-interaction-madura
 excerpt: 'This study analyze interaction of Insulin-like growth factor-1 (IGF-1), Growth hormone (GH1), Growth hormone receptor (GHR), Myostatin (MSTN), and Leptin (LEP).'
-date: 2022-12
+date: 2022-12-01
 venue: 'IOP Conference Series: Earth and Environmental Science'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1755-1315/1114/1/012084/meta'
 citation: 'Nugroho, T., & Prastowo, S. (2022). Protein-to-protein interaction of genes responsible for the economic trait of Madura Cattle: an in silico analysis. In IOP Conference Series: Earth and Environmental Science (Vol. 1114, No. 1, p. 012084). IOP Publishing.'

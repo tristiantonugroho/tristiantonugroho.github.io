@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2022-03-candidacy-gene-madura
 excerpt: 'This study identify 18 gene were observed on Madura cattle and five gene responsible to economic trait (IGF-1, GH, GHR, LEP, MSTN)'
-date: 2022-03
+date: 2022-03-01
 venue: 'IOP Conference Series: Earth and Environmental Science'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1755-1315/1001/1/012018/meta'
 citation: 'Nugroho, T., Maharani, D., & Widi, T. S. M. (2022). Candidacy of genes associated with economic traits for Madura cattle in Sonok area. In IOP Conference Series: earth and environmental science (Vol. 1001, No. 1, p. 012018). IOP Publishing.'

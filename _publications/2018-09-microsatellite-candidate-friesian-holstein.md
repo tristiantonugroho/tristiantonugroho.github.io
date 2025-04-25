@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2018-09-microsatellite-candidate-friesian-holstein
 excerpt: 'This study identify 7 microsatellites namely ETH152, ETH225, BM2113, INRA032, BM1824, BM1818 and MM12 were associated with calving ease, non-return rate and twinning.'
-date: 2018-09
+date: 2018-09-01
 venue: 'AIP Conference Proceedings'
 paperurl: 'https://pubs.aip.org/aip/acp/article/2014/1/020055/724343/Microsatellite-selection-candidate-associated-with'
 citation: 'Vanessa, R., Prastowo, S., Nugroho, T., Widyas, N., Susilowati, A., & Sutarno, S. (2018). Microsatellite selection candidate associated with reproduction trait in Indonesian Friesian Holstein using published studies. In AIP Conference Proceedings (Vol. 2014, No. 1). AIP Publishing.'

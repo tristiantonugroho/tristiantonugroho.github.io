@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-factors-affecting-growth-boer
 excerpt: This paper analyze effect of genetic group, buck, litter size, birth season, weaning season-year, and their interactions to the post-weaning growth of Boer and Boer cross goats'
-date: 2023-12
+date: 2023-12-30
 venue: 'Jurnal Sain Peternakan Indonesia'
 slidesurl: 
 paperurl: 'https://ejournal.unib.ac.id/jspi/article/view/30854'
