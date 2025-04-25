@@ -22,9 +22,9 @@ repository               : "tristiantonugroho/tristiantonugroho.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Square white-min.png"
   name             : "Tristianto Nugroho"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he"  
   bio              : "Researcher & Lecturer | Universitas Gadjah Mada"
   location         : "Indonesia"
   employer         : "Universitas Gadjah Mada"
