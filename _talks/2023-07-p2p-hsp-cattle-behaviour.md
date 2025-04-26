@@ -1,0 +1,12 @@
+---
+title: "Biological Processes and Pathways of the Heat Shock Protein Family and Their Relation to Cattle Behaviour in the Tropical Environment"
+collection: talks
+type: "Tutorial"
+permalink: /talks/2023-07-p2p-hsp-cattle-behaviour
+venue: "The 4th International Joint Graduate Seminar on Animal and Agriculture Sciences"
+date: 2023-07-17
+location: "Universiti Putra Malaysia, Malaysia"
+---
+
+
+Heat Shock Protein Family (HSPs) plays an important role in the heat stress of cattle. Heat stress, which is related to animal behavior, poses a challenge for the production system in tropical environments. This study aimed to identify the biological processes and pathways of the HSPs and their potential relationship to cattle stress behaviors in tropical environments. An in silico study was conducted using STRING v.11.5, a reliable database for protein-protein interactions. Eight HSPs in Bos taurus, including HSPB8, HSPB7, HSPE1, HSPD1, HSPA1A, HSPA6, HSP90AA1, and HSP90AB1, which were identified as responsible for heat tolerance in previous studies, were used for the analysis. A further literature review was conducted using the Scopus database to explore the potential relationship between the HSPs and cattle behavior. The results showed that all HSPs interacted with each other through 21 interaction edges. HSPA1A had the highest number of connections, while HSPB7 had the lowest. Eight biological processes and six KEGG pathways were found to be involved in the interactions between HSPs. Combination of 3-7 HSPs were found to interact within biological process, including response to stress, protein folding, cellular response to stress, cellular response to unfolded protein, response to temperature stimulus, protein refolding, chaperone cofactor-dependent protein refolding, and cellular response to heat. Combination of 2-3 HSPs were involved in KEGG pathways, namely legionellosis, antigen processing and presentation, estrogen signaling pathway, protein processing in endoplasmic reticulum, longevity regulating pathway - multiple species, and toxoplasmosis. Furthermore, based on the literature review, HSPD1, HSPA1A, HSP90AA1, and HSP90AB1 expression was found to be associated with cattle behavior and physiology under heat stress conditions. Based on bioinformatics analysis, we demonstrate that each HSPs interacts with each other to control heat stress mechanisms, is involved in physiological pathways, and has relationships with cattle behavior under heat stress in tropical environments.
