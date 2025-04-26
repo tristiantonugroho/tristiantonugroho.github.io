@@ -16,9 +16,9 @@ Education
 
 Professional experience
 ======
-* 2023-present: Universitas Gadjah Mada | Researcher & Lecturer  
-* 2023-present: Helix Reka Digital | Founder & Expert 
-* 2017-present: eRCo Data Science | Researcher
+* 2023-present: Universitas Gadjah Mada, Researcher & Lecturer  
+* 2023-present: Helix Reka Digital, Founder & Expert 
+* 2017-present: eRCo Data Science, Researcher
   
 Interests
 ======
