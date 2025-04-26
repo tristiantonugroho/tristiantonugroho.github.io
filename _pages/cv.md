@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master in Animal Science, Universitas Gadjah Mada, Indonesia
+* Bachelor in Animal Science, Universitas Sebelas Maret, Indonesia
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-present: Universitas Gadjah Mada | Researcher & Lecturer  
+* 2023-present: Helix Reka Digital | Founder & Expert 
+* 2017-present: eRCo Data Science | Researcher
   
-Skills
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Animal behavior and welfare
+* Data science
+* Bioinformatics
+* Computational animal science
+
+Teaching
+======
+* Livestock Industry
+* Draught and Sport Animals Industry
+* Basic Genetics
+* Companion and Experimental Animals Industry
+* Animal Behaviour and Welfare
+* Animal Health Science
+* Experimental Design
+  
+Organizations
+======
+* Himpunan Ilmuwan Peternakan Indonesia
+* Indonesian Society of Animal Science
 
 Publications
 ======
@@ -53,12 +54,4 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
